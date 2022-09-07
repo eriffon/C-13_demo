@@ -1,0 +1,12 @@
+# Ignore all pdf files
+*.pdf
+
+# Ignore all word files
+*.doc
+*.docx
+
+# Ignore all html files
+*.html
+
+# Ignore all exe files
+*.exe
